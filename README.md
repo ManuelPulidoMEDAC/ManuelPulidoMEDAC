@@ -17,7 +17,7 @@ Bienvenido/a a mi perfil de GitHub. Soy un/a apasionado/a por la programación. 
 
 ## Proyectos Destacados 🚀
 
-- **[BBDD Drive]https://github.com/JoseCarlosOlivaMedac/Proyecto-BBDD:** Proyecto FCT de CS Desarrollo de Aplicaciones WEB de Medac.
+- ** BBDD Drive https://github.com/JoseCarlosOlivaMedac/Proyecto-BBDD:** Proyecto FCT de CS Desarrollo de Aplicaciones WEB de Medac.
 
 
 ## Estadísticas de GitHub 📊
