@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡Hola, soy Manuel Pulido! 👋
 
-<!--
-**ManuelPulidoMEDAC/ManuelPulidoMEDAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido/a a mi perfil de GitHub. Soy un/a apasionado/a por la programación. Aquí encontrarás algunos de mis proyectos personales y contribuciones a la comunidad de código abierto.
 
-Here are some ideas to get you started:
+## Sobre mí 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy trabajando en Proyecto FCT del CS de DAW.
+- 📫 Cómo contactarme: mpr0051@alu.medac.es
+
+
+## Tecnologías y Herramientas 🛠️
+
+- **Lenguajes de Programación:** JavaScript, Python, Java, etc.
+- **Frameworks y Librerías:** React, Vue, Node.js.
+- **Herramientas de Desarrollo:** Git, Docker, VS Code.
+- **Bases de Datos:** MySQL, MongoDB, PostgreSQL.
+
+## Proyectos Destacados 🚀
+
+- **[Nombre del Proyecto](enlace al repositorio):** Breve descripción del proyecto.
+
+
+## Estadísticas de GitHub 📊
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ManuelPulidoMEDAC&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelPulidoMEDAC&layout=compact&theme=radical)
+
+## Contacto 📧
+
+Si deseas contactarme, no dudes en enviarme un correo electrónico a [tu correo electrónico] o seguirme en mis redes sociales:
+
+- [LinkedIn](https://www.linkedin.com/in/mpulidoroldan/)
+
+¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis proyectos. 😊
