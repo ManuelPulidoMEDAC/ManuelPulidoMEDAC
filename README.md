@@ -5,7 +5,7 @@ Bienvenido/a a mi perfil de GitHub. Soy un/a apasionado/a por la programación. 
 ## Sobre mí 🧑‍💻
 
 - 🔭 Recien titulado como Técnico Superior de Desarrollo de Aplicaciones Web.
-- 📫 Cómo contactarme: mpr0051@alu.medac.es
+- 📫 Cómo contactarme: mpulidoroldan@gmail.com
 
 
 ## Tecnologías y Herramientas 🛠️
